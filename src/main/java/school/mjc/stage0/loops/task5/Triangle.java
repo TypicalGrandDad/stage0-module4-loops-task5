@@ -26,7 +26,7 @@ public class Triangle {
                             System.out.print("8");
                         }
                         if(y==2){
-                            System.out.print("8");
+                            System.out.println("8");
                         }
                     }
                 }
@@ -87,7 +87,7 @@ public class Triangle {
                             System.out.print("8");
                         }
                         if(y==4){
-                            System.out.print("8");
+                            System.out.println("8");
                         }
                     }
                 }
