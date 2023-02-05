@@ -13,8 +13,12 @@ public class Rectangle {
                     }
                 }
                 else if(x==length-1){
-                    System.out.println("8");
-                }
+                    if(y==height-1){
+                        System.out.println("8");
+                    }
+                    else{
+                        System.out.print("8");
+                    }}
                 else {
                     if(y==3){
                         System.out.print("8");
@@ -37,8 +41,12 @@ public class Rectangle {
                         }
                     }
                     else if(x==length-1){
-                        System.out.println("8");
-                    }
+                        if(y==height-1){
+                            System.out.println("8");
+                        }
+                        else{
+                            System.out.print("8");
+                        }}
                     else {
                         if(y==3){
                             System.out.print("8");
@@ -62,8 +70,12 @@ public class Rectangle {
                         }
                     }
                     else if(x==length-1){
-                        System.out.println("8");
-                    }
+                        if(y==height-1){
+                            System.out.println("8");
+                        }
+                        else{
+                        System.out.print("8");
+                    }}
                     else {
                         if(y==3){
                             System.out.print("8");
