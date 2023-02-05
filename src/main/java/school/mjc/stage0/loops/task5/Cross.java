@@ -16,10 +16,7 @@ public class Cross {
                             for (int i = 0; i < sideLength / 2; i++) {
                                 System.out.print(" ");
                             }
-                            System.out.print("8");
-                            for (int i = 0; i < sideLength / 2; i++) {
-                                System.out.print(" ");
-                            }
+                            System.out.println("8");
                         }}
                     else{
                         if(y==1) {
@@ -51,10 +48,7 @@ public class Cross {
                             for (int i = 0; i < sideLength / 2; i++) {
                                 System.out.print(" ");
                             }
-                            System.out.print("8");
-                            for (int i = 0; i < sideLength / 2; i++) {
-                                System.out.print(" ");
-                            }
+                            System.out.println("8");
                         }}
                     else{
                         if(y==1) {
